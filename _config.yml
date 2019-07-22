@@ -7,4 +7,3 @@ future: true
 jailed: false
 theme: jekyll-theme-time-machine
 gfm_quirks: paragraph_end
-permalink: /404.html
