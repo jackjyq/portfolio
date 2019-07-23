@@ -1,4 +1,4 @@
-# [🏡](http://www.jackjyq.com/) Jack Jiang's Projects
+# [🏡](http://www.jackjyq.com/) Jack Jiang's Portfolio
 
 [![](./data/link-badge.svg)](https://www.linkedin.com/in/jiangyiqun/)
 [![](./data/github-badge.svg)](https://github.com/jiangyiqun/)
