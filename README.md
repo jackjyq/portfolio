@@ -7,16 +7,21 @@
 
 ___
 
-![](./data/code-badge.svg)
-![](./data/demo-badge.svg)
-![](./data/video-badge.svg)
-![](./data/detail-badge.svg)
-/
-![](./data/me-badge.svg) 
-/ 
-![](data/teammates-badge.svg)
-
 ## 🌐 Web Development
+
+### HJPR Project
+
+[![](./data/code-badge.svg)](https://github.com/unsw-cse-comp3900-9900/capstone-project-hjpr)
+[![](./data/detail-badge.svg)](https://unsw-cse-comp3900-9900.github.io/capstone-project-hjpr/)
+/
+[![](./data/react-badge.svg)](https://reactjs.org/)
+[![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
+[![](./data/flask-badge.svg)](https://flask.palletsprojects.com/en/1.1.x/)
+[![](data/mlab-badge.svg)](https://mlab.com/)
+[![](data/numpy-badge.svg)](https://numpy.org/)
+[![](data/tensorflow-badge.svg)](https://www.tensorflow.org/)
+
+A course feature extraction and recommender system
 
 ### Instacram
 
@@ -24,7 +29,6 @@ ___
 /
 [![](./data/javascript-badge.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
-/
 [![](./data/flask-badge.svg)](https://flask.palletsprojects.com/en/1.1.x/)
 [![](./data/sqlite-badge.svg)](https://www.sqlite.org/)
 
@@ -39,7 +43,6 @@ ___
 [![](./data/flask-badge.svg)](https://flask.palletsprojects.com/en/1.1.x/)
 [![](data/mlab-badge.svg)](https://mlab.com/)
 [![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
-/
 [![](./data/javascript-badge.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
 [![](data/numpy-badge.svg)](https://numpy.org/)
@@ -59,7 +62,7 @@ ___
 
 A website which connects users, creators and sponsors of products for the disabled person. 
 
-___
+<br/>
 
 ## 🔮 Machine Learning
 
@@ -86,7 +89,54 @@ ___
 
 A SVM binary classifier of newspaper paragraphs
 
+<br/>
+
+## 📱 Mobile Development
+
+### Gyroscope And Magnetometer
+
+[![](./data/code-badge.svg)](https://github.com/Jiangyiqun/COMP9336_Android/tree/master/gyroscope-and-magnetometer)
+/
+[![](data/android-badge.svg)](https://www.android.com/)
+
+A simple gyroscope and magnetometer Android App
+
+<br/>
+
+## ⚙️ Browers Extension / Theme
+
+### ColorFox
+
+[![](./data/demo-badge.svg)](https://jiangyiqun.github.io/ColorFox/)
+[![](./data/code-badge.svg)](https://github.com/Jiangyiqun/ColorFox)
+
+Jack's Browser Theme for Firefox and Chrome
+
+<br/>
+
+## 📜 Script / Tools
+
+### LeGit
+
+[![](./data/code-badge.svg)](https://github.com/Jiangyiqun/COMP9041_Andrew/tree/master/ass1)
+/
+[![](data/perl-badge.svg)](https://www.perl.org/)
+[![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
+[![](./data/git-badge.svg)](https://git-scm.com/)
+
+An implementation of a subset of Git, together with [GitLog2Diary 🇬🇧 🇨🇳](https://github.com/Jiangyiqun/GitLog2Diary) which can generate diary from Git log.
+
 ___
+
+### Android Background Ignore 🇨🇳
+
+[![](./data/code-badge.svg)](https://github.com/Jiangyiqun/android_background_ignore)
+/
+[![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
+
+A script which helps Android Phone to save battery, only works for Android 7.0 ~ Android 8.0
+
+<br/>
 
 ## 💡 Algorithm
 
@@ -109,9 +159,9 @@ ___
 
 A python program which can solve sudoku and output as pdf
 
-___
+<br/>
 
-## 🖥️ OS / Network / Compiler
+## 🖥️ OS Kernel / Computer Network / Compiler
 
 ### System/161
 
@@ -143,7 +193,7 @@ ___
 
 An implement an interpreter for MinHs,  a small functionallanguage similar to Haskell
 
-___
+<br/>
 
 ## 🎮 Embedded Systems
 
@@ -164,42 +214,7 @@ ___
 
 A smart controller for old-school air-conditioner, automatically adjusting the room temperature. It can be easily installed and controlled by a smartphone.
 
-___
-
-## ⚙️ Browers Extension / Theme
-
-### ColorFox
-
-[![](./data/demo-badge.svg)](https://jiangyiqun.github.io/ColorFox/)
-[![](./data/code-badge.svg)](https://github.com/Jiangyiqun/ColorFox)
-
-Jack's Browser Theme for Firefox and Chrome
-
-___
-
-## 📜 Script / Tools
-
-### LeGit
-
-[![](./data/code-badge.svg)](https://github.com/Jiangyiqun/COMP9041_Andrew/tree/master/ass1)
-/
-[![](data/perl-badge.svg)](https://www.perl.org/)
-[![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
-[![](./data/git-badge.svg)](https://git-scm.com/)
-
-An implementation of a subset of Git, together with [GitLog2Diary 🇬🇧 🇨🇳](https://github.com/Jiangyiqun/GitLog2Diary) which can generate diary from Git log.
-
-___
-
-### Android Background Ignore 🇨🇳
-
-[![](./data/code-badge.svg)](https://github.com/Jiangyiqun/android_background_ignore)
-/
-[![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
-
-A script which helps Android Phone to save battery, only works for Android 7.0 ~ Android 8.0
-
-___
+<br/>
 
 > Now is better than never. <br/>
 > Although never is often better than **right** now.<br/>
