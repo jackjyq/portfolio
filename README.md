@@ -214,8 +214,6 @@ ___
 
 A smart controller for old-school air-conditioner, automatically adjusting the room temperature. It can be easily installed and controlled by a smartphone.
 
-<br/>
-
 > Now is better than never. <br/>
 > Although never is often better than **right** now.<br/>
 > —— [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
