@@ -32,8 +32,6 @@ layout: default
 [![Shields IO](data/shield-badge.svg)](https://shields.io/)
 [![emojiedia](data/emojipedia-badge.svg)](https://emojipedia.org/)
 
-___
-
 ### HJPR Project
 
 [💾Code](https://github.com/unsw-cse-comp3900-9900/capstone-project-hjpr) [📘Docs](https://unsw-cse-comp3900-9900.github.io/capstone-project-hjpr/)
@@ -47,8 +45,6 @@ ___
 
 A course feature extraction and recommender system
 
-___
-
 ### [Sakura](https://jiangyiqun.github.io/Sakura/)
 
 [💾Code](https://github.com/Jiangyiqun/Sakura) [📘Docs](https://drive.google.com/open?id=18VuHNmz88jmQJ4G9e15A2G4cfrIMUkcL)
@@ -57,8 +53,6 @@ ___
 [![](./data/material-badge.svg)](https://material-ui.com/)
 
 A multifunctional period tracker that records menstrual cycles, provide medicine reminder and mental condition enlightenment.
-
-___
 
 ### Instacram
 
@@ -70,8 +64,6 @@ ___
 [![](./data/sqlite-badge.svg)](https://www.sqlite.org/)
 
 An Instagram-like single page web application.
-
-___
 
 ### Junipy
 
@@ -86,8 +78,6 @@ ___
 
 An national indicator parse and analyse service
 
-___
-
 ### [creatAbility ](https://jiangyiqun.github.io/creatAbility)
 
 [💾Code](https://github.com/Jiangyiqun/creatAbility) [📘Docs](https://docs.google.com/presentation/d/154vG6Gu8ruqlebuwhlM-xXLeUX3fDV1Hd3adItWseq4/edit#slide=id.p)
@@ -97,7 +87,7 @@ ___
 
 A website which connects users, creators and sponsors of products for the disabled person. 
 
-<br/>
+___
 
 ## 🔮 Machine Learning
 
@@ -112,8 +102,6 @@ A website which connects users, creators and sponsors of products for the disabl
 
 A Deep Reinforcement Learning Project
 
-___
-
 ### SophieFans
 
 [💾Code](https://github.com/Jiangyiqun/SophieFans/)
@@ -124,7 +112,7 @@ ___
 
 A SVM binary classifier of newspaper paragraphs
 
-<br/>
+___
 
 ## 📱 Mobile Development
 
@@ -136,7 +124,7 @@ A SVM binary classifier of newspaper paragraphs
 
 A simple gyroscope and magnetometer Android App
 
-<br/>
+___
 
 ## ⚙️ Browers Extension / Theme
 
@@ -147,7 +135,7 @@ A simple gyroscope and magnetometer Android App
 
 Jack's Browser Theme for Firefox and Chrome
 
-<br/>
+___
 
 ## 📜 Script / Tools
 
@@ -161,8 +149,6 @@ Jack's Browser Theme for Firefox and Chrome
 
 An implementation of a subset of Git, together with [GitLog2Diary](https://github.com/Jiangyiqun/GitLog2Diary) which can generate diary from Git log.
 
-___
-
 ### Android Background Ignore
 
 [💾Code](https://github.com/Jiangyiqun/android_background_ignore)
@@ -172,7 +158,7 @@ ___
 
 A script which helps Android Phone to save battery, only works for Android 7.0 ~ Android 8.0
 
-<br/>
+___
 
 ## 💡 Algorithm
 
@@ -185,8 +171,6 @@ A script which helps Android Phone to save battery, only works for Android 7.0 ~
 
 A implementation of [pagerank](https://github.com/Jiangyiqun/COMP9024_C/tree/master/ass2/submit) using C along with an [auto-test script](https://github.com/Jiangyiqun/COMP9024_C/tree/master/ass2/autotest)
 
-___
-
 ### Sudoku
 
 [💾Code](https://github.com/Jiangyiqun/COMP9021_Python/tree/master/ass02)
@@ -195,7 +179,7 @@ ___
 
 A python program which can solve sudoku and output as pdf
 
-<br/>
+___
 
 ## 🖥️ OS Kernel / Computer Network / Compiler
 
@@ -204,8 +188,6 @@ A python program which can solve sudoku and output as pdf
 [💾Part 0](https://bitbucket.org/jiangyiqun/comp9201_os_asst0) [💾Part 1](https://bitbucket.org/jiangyiqun/comp9201_os_asst1) [💾Part 2](https://bitbucket.org/jiangyiqun/comp9201_os_asst2) [💾Part 3](https://bitbucket.org/jiangyiqun/comp9201_os_asst3)
 
 An Operating System kernel programming project based on System/161
-
-___
 
 ### SCP
 
@@ -216,8 +198,6 @@ ___
 
 An implementation of a subset of TCP
 
-___
-
 ### MinHS
 
 [💾Code](https://github.com/Jiangyiqun/COMP9161_Haskell)
@@ -226,7 +206,7 @@ ___
 
 An implement an interpreter for MinHs,  a small functionallanguage similar to Haskell
 
-<br/>
+___
 
 ## 🎮 Embedded Systems
 
@@ -237,8 +217,6 @@ An implement an interpreter for MinHs,  a small functionallanguage similar to Ha
 [![](data/avr-badge.svg)](https://www.microchip.com/webdoc/avrassembler/avrassembler.wb_instruction_list.html)
 
 A drone simulation program using AVR assembly language
-
-___
 
 ### [SwitchPal](https://getswitchpal.com/)
 
