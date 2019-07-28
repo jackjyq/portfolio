@@ -11,11 +11,8 @@ layout: default
 
 ## 🌐 Web Development
 
-### HJPR Project
+### HJPR Project [💾](https://github.com/unsw-cse-comp3900-9900/capstone-project-hjpr) [📘](https://unsw-cse-comp3900-9900.github.io/capstone-project-hjpr/)
 
-[![](./data/code-badge.svg)](https://github.com/unsw-cse-comp3900-9900/capstone-project-hjpr)
-[![](./data/detail-badge.svg)](https://unsw-cse-comp3900-9900.github.io/capstone-project-hjpr/)
-/
 [![](./data/react-badge.svg)](https://reactjs.org/)
 [![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
 [![](./data/flask-badge.svg)](https://flask.palletsprojects.com/en/1.1.x/)
@@ -27,7 +24,7 @@ A course feature extraction and recommender system
 
 ___
 
-### Sakura
+### [Sakura](https://jiangyiqun.github.io/Sakura/)
 
 [![](./data/demo-badge.svg)](https://jiangyiqun.github.io/Sakura/)
 [![](./data/code-badge.svg)](https://github.com/Jiangyiqun/Sakura)
