@@ -31,6 +31,9 @@ layout: default
 [![Time Machine](data/theme-badge.svg)](https://github.com/pages-themes/time-machine/)
 [![Shields IO](data/shield-badge.svg)](https://shields.io/)
 [![emojiedia](data/emojipedia-badge.svg)](https://emojipedia.org/)
+
+___
+
 ### HJPR Project
 
 [💾Code](https://github.com/unsw-cse-comp3900-9900/capstone-project-hjpr) [📘Docs](https://unsw-cse-comp3900-9900.github.io/capstone-project-hjpr/)
