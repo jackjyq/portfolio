@@ -25,7 +25,7 @@ layout: default
 
 ## 🌐 Web Development
 
-### [Portfolio](https://www.jackjyq.com)
+### [jackjyq.com](https://www.jackjyq.com)
 
 [![Github Pages](data/pages-badge.svg)](https://pages.github.com/)
 [![Time Machine](data/theme-badge.svg)](https://github.com/pages-themes/time-machine/)
