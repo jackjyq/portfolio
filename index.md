@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # [🏡](http://www.jackjyq.com/) Jack Jiang's Portfolio
 
 [![](./data/link-badge.svg)](https://www.linkedin.com/in/jiangyiqun/)
