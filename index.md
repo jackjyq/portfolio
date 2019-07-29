@@ -23,14 +23,7 @@ layout: default
 
 <br />
 
-## 🌐 Web Development
-
-### [jackjyq.com](https://www.jackjyq.com)
-
-[![Github Pages](data/pages-badge.svg)](https://pages.github.com/)
-[![Time Machine](data/theme-badge.svg)](https://github.com/pages-themes/time-machine/)
-[![Shields IO](data/shield-badge.svg)](https://shields.io/)
-[![emojiedia](data/emojipedia-badge.svg)](https://emojipedia.org/)
+## 🌐Web Development
 
 ### HJPR Project
 
@@ -89,7 +82,7 @@ A website which connects users, creators and sponsors of products for the disabl
 
 ___
 
-## 🔮 Machine Learning
+## 🔮Machine Learning
 
 ### Reinforcement
 
@@ -114,7 +107,7 @@ A SVM binary classifier of newspaper paragraphs
 
 ___
 
-## 📱 Mobile Development
+## 📱Mobile Development
 
 ### Gyroscope And Magnetometer
 
@@ -126,7 +119,7 @@ A simple gyroscope and magnetometer Android App
 
 ___
 
-## ⚙️ Browers Extension / Theme
+## ⚙️Browers Extension / Theme
 
 ### [ColorFox](https://addons.mozilla.org/en-US/firefox/user/13822940/)
 
@@ -137,7 +130,7 @@ Jack's Browser Theme for Firefox and Chrome
 
 ___
 
-## 📜 Script / Tools
+## 📜Script / Tools
 
 ### LeGit
 
@@ -160,7 +153,7 @@ A script which helps Android Phone to save battery, only works for Android 7.0 ~
 
 ___
 
-## 💡 Algorithm
+## 💡Algorithm
 
 ### PageRank
 
@@ -181,7 +174,7 @@ A python program which can solve sudoku and output as pdf
 
 ___
 
-## 🖥️ OS Kernel / Computer Network / Compiler
+## 🖥️OS Kernel / Computer Network / Compiler
 
 ### System/161
 
@@ -208,7 +201,7 @@ An implement an interpreter for MinHs,  a small functionallanguage similar to Ha
 
 ___
 
-## 🎮 Embedded Systems
+## 🎮Embedded Systems
 
 ### Drone Simulation
 
@@ -221,3 +214,17 @@ A drone simulation program using AVR assembly language
 ### [SwitchPal](https://getswitchpal.com/)
 
 A smart controller for old-school air-conditioner, automatically adjusting the room temperature. It can be easily installed and controlled by a smartphone.
+
+___
+
+## 🏠This
+
+### [jackjyq.com](https://www.jackjyq.com)
+
+[![Github Pages](data/pages-badge.svg)](https://pages.github.com/)
+[![Time Machine](data/theme-badge.svg)](https://github.com/pages-themes/time-machine/)
+[![Jekyll](data/jekyll-badge.svg)](https://jekyllrb.com/)
+[![Shields IO](data/shield-badge.svg)](https://shields.io/)
+[![emojiedia](data/emojipedia-badge.svg)](https://emojipedia.org/)
+
+Jack Jiang’s Portfolio Page
