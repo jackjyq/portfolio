@@ -109,6 +109,15 @@ ___
 
 ## 📱Mobile Development
 
+## Audio Talk
+
+[💾Code](https://bitbucket.org/jiangyiqun/audio-talk/)
+[📘Docs](https://bitbucket.org/jiangyiqun/audio-talk/src/master/Report.pdf)
+
+[![](data/android-badge.svg)](https://www.android.com/)
+
+A mobile App which uses speaker and microphone to transmit data.
+
 ### Gyroscope And Magnetometer
 
 [💾Code](https://github.com/Jiangyiqun/COMP9336_Android/tree/master/gyroscope-and-magnetometer)
