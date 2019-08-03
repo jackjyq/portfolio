@@ -246,7 +246,7 @@ An implement an interpreter for MinHs,  a small functionallanguage similar to Ha
 
 ___
 
-## 🎮Embedded Systems
+## 🎮Embedded Systems / Electronic Engineering
 
 ### Drone Simulation
 
