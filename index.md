@@ -141,6 +141,16 @@ ___
 
 ## 📜Script / Tools
 
+### [ppm](https://jiangyiqun.github.io/ppm/)
+
+[💾Code](https://github.com/Jiangyiqun/ppm)
+[📘Docs](https://jiangyiqun.github.io/ppm/)
+
+[![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
+[![](data/python-badge.svg)](https://www.python.org/)
+
+managing python virtual environment as easy as using npm
+
 ### LeGit
 
 [💾Code](https://github.com/Jiangyiqun/COMP9041_Andrew/tree/master/ass1)
