@@ -84,6 +84,24 @@ ___
 
 ## 🔮Machine Learning
 
+### Convolutional Neural Network
+
+[💾Code](https://github.com/Jiangyiqun/COMP9444_TensorFlow/tree/master/prj1)
+
+[![](data/tensorflow-badge.svg)](https://www.tensorflow.org/)
+
+A Convolutional Neural Network assignment
+
+### Recurrent Neural Networks
+
+[💾Code](https://github.com/Jiangyiqun/COMP9444_TensorFlow/tree/master/prj2)
+[📘Docs](https://github.com/Jiangyiqun/COMP9444_TensorFlow/blob/master/prj2/report.pdf)
+
+[![](data/tensorflow-badge.svg)](https://www.tensorflow.org/)
+[![](data/numpy-badge.svg)](https://numpy.org/)
+
+A Recurrent Neural Network assignment
+
 ### Reinforcement
 
 [💾Code](https://github.com/Jiangyiqun/Reinforcement)
@@ -182,6 +200,14 @@ ___
 [![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
 
 A implementation of [pagerank](https://github.com/Jiangyiqun/COMP9024_C/tree/master/ass2/submit) using C along with an [auto-test script](https://github.com/Jiangyiqun/COMP9024_C/tree/master/ass2/autotest)
+
+### list Iterator
+
+[💾Code](https://github.com/Jiangyiqun/COMP9024_C/tree/master/ass1)
+
+[![](data/c-badge.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+A list iterator implementation using C.
 
 ### Sudoku
 
