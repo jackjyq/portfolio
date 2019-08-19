@@ -27,7 +27,7 @@ layout: default
 
 ### HJPR Project
 
-[💾Code](https://github.com/unsw-cse-comp3900-9900/capstone-project-hjpr) [📘Docs](https://unsw-cse-comp3900-9900.github.io/capstone-project-hjpr/)
+[💾Code](https://github.com/Jiangyiqun/HJPR) [📘Docs](https://jiangyiqun.github.io/HJPR/)
 
 [![](./data/react-badge.svg)](https://reactjs.org/)
 [![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
@@ -38,9 +38,9 @@ layout: default
 
 A course feature extraction and recommender system
 
-### [Sakura](https://jiangyiqun.github.io/Sakura/)
+### Sakura
 
-[💾Code](https://github.com/Jiangyiqun/Sakura) [📘Docs](https://drive.google.com/open?id=18VuHNmz88jmQJ4G9e15A2G4cfrIMUkcL)
+[🏠Page](https://jiangyiqun.github.io/Sakura/) [💾Code](https://github.com/Jiangyiqun/Sakura) [📘Docs](https://drive.google.com/open?id=18VuHNmz88jmQJ4G9e15A2G4cfrIMUkcL)
 
 [![](./data/react-badge.svg)](https://reactjs.org/)
 [![](./data/material-badge.svg)](https://material-ui.com/)
@@ -71,9 +71,9 @@ An Instagram-like single page web application.
 
 An national indicator parse and analyse service
 
-### [creatAbility ](https://jiangyiqun.github.io/creatAbility)
+### creatAbility
 
-[💾Code](https://github.com/Jiangyiqun/creatAbility) [📘Docs](https://docs.google.com/presentation/d/154vG6Gu8ruqlebuwhlM-xXLeUX3fDV1Hd3adItWseq4/edit#slide=id.p)
+[🏠Page](https://jiangyiqun.github.io/creatAbility) [💾Code](https://github.com/Jiangyiqun/creatAbility) [📘Docs](https://docs.google.com/presentation/d/154vG6Gu8ruqlebuwhlM-xXLeUX3fDV1Hd3adItWseq4/edit#slide=id.p)
 
 [![](./data/react-badge.svg)](https://reactjs.org/)
 [![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
@@ -148,10 +148,11 @@ ___
 
 ## ⚙️Browers Extension / Theme
 
-### [ColorFox](https://addons.mozilla.org/en-US/firefox/user/13822940/)
+### ColorFox
 
+[🏠Page](https://jiangyiqun.github.io/ColorFox/)
 [💾Code](https://github.com/Jiangyiqun/ColorFox)
-[📘Docs](https://jiangyiqun.github.io/ColorFox/)
+[🦊Firefox Themes](https://addons.mozilla.org/en-US/firefox/user/13822940/)
 
 Jack's Browser Theme for Firefox and Chrome
 
@@ -159,10 +160,10 @@ ___
 
 ## 📜Script / Tools
 
-### [ppm](https://jiangyiqun.github.io/ppm/)
+### ppm
 
+[🏠Page](https://jiangyiqun.github.io/ppm/)
 [💾Code](https://github.com/Jiangyiqun/ppm)
-[📘Docs](https://jiangyiqun.github.io/ppm/)
 
 [![](data/shellscript-badge.svg)](https://en.wikipedia.org/wiki/Shell_script/)
 [![](data/python-badge.svg)](https://www.python.org/)
@@ -256,13 +257,15 @@ ___
 
 A drone simulation program using AVR assembly language
 
-### [SwitchPal](https://getswitchpal.com/)
+### SwitchPal
+
+[🏠Page](https://getswitchpal.com/)
 
 A smart controller for old-school air-conditioner, automatically adjusting the room temperature. It can be easily installed and controlled by a smartphone.
 
 ___
 
-## 🏠This
+## 😀self
 
 ### [jackjyq.com](https://www.jackjyq.com)
 
