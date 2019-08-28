@@ -8,7 +8,7 @@ layout: default
 
 > Hey, my name is Jack Jiang.
 > 
-> I am a final term student of [Master of IT](https://www.engineering.unsw.edu.au/study-with-us/postgraduate-degrees/master-of-information-technology) in UNSW with consistent [distinction (or HD) grade](https://student.unsw.edu.au/grade) for ALL courses.
+> I am a final term student of [Master of IT](https://www.engineering.unsw.edu.au/study-with-us/postgraduate-degrees/master-of-information-technology) in UNSW.
 > 
 > I am passionate about machine learning, full-stack web development,  mobile development etc.
 >
