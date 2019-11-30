@@ -6,14 +6,6 @@ layout: default
 
 # Jack Jiang's Portfolio
 
-> Hey, my name is Jack Jiang.
-> 
-> I am a final term student of [Master of IT](https://www.engineering.unsw.edu.au/study-with-us/postgraduate-degrees/master-of-information-technology) in UNSW.
-> 
-> I am passionate about machine learning, full-stack web development,  mobile development etc.
->
-> I have experience of coding in Python, JavaScript, C, Java, Perl, Shell Script, SQL, Assembly Language etc.
->
 > Please click on the following badges to know more about me.
 > 
 > [![](./data/link-badge.svg)](https://www.linkedin.com/in/jiangyiqun/)
@@ -27,7 +19,7 @@ layout: default
 
 ### HJPR Project
 
-[💾Code](https://github.com/Jiangyiqun/HJPR) [📘Docs](https://jiangyiqun.github.io/HJPR/)
+[🏠Page](http://hjpr.jackjyq.com/) [💾Code](https://github.com/Jiangyiqun/HJPR) [📘Docs](https://jiangyiqun.github.io/HJPR/)
 
 [![](./data/react-badge.svg)](https://reactjs.org/)
 [![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
@@ -49,7 +41,7 @@ A multifunctional period tracker that records menstrual cycles, provide medicine
 
 ### Instacram
 
-[💾Code](https://github.com/Jiangyiqun/Instacram)
+[🏠Page](http://instacram.jackjyq.com/) [💾Code](https://github.com/Jiangyiqun/Instacram)
 
 [![](./data/javascript-badge.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
 [![](./data/bootstrap-badge.svg)](https://getbootstrap.com/)
@@ -60,7 +52,7 @@ An Instagram-like single page web application.
 
 ### Junipy
 
-[💾Code](https://github.com/Jiangyiqun/Junipy/)
+[🏠Page](http://junipy.jackjyq.com/) [💾Code](https://github.com/Jiangyiqun/Junipy/)
 
 [![](./data/flask-badge.svg)](https://flask.palletsprojects.com/en/1.1.x/)
 [![](data/mlab-badge.svg)](https://mlab.com/)
