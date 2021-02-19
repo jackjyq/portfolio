@@ -5,6 +5,6 @@ kramdown:
   hard_wrap: false
 future: true
 jailed: false
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
 gfm_quirks: paragraph_end
 google_analytics: UA-144741828-1
